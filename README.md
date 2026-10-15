@@ -7,7 +7,7 @@ A simple React application created as part of the Meta React Basics course on Co
 - Toggle function to play/pause sounds seamlessly.
 - State-based audio management in React components.
 
-## Tech Stack
+## 🛠️ Tech Stack
 - React.js
 - HTML5 Audio API
 - JavaScript (ES6+)
